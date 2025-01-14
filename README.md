@@ -1,0 +1,2 @@
+# UIClickerDecompressionExamplePlugin
+plugin archive example for decompression
